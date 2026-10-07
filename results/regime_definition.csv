@@ -1,0 +1,7 @@
+scheme,regime,lower,upper
+tertile,Low,0.17,0.31
+tertile,Medium,0.31,0.55
+tertile,High,0.55,3.65
+spike,Normal,0.17,0.81
+spike,High,0.81,1.7
+spike,Extreme,1.7,3.65

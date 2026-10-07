@@ -1,0 +1,4 @@
+,XGBoost Direct,Hybrid feature-based,Residual FTS-XGBoost
+XGBoost Direct,16,20,28
+Hybrid feature-based,16,25,27
+Residual FTS-XGBoost,2,18,64

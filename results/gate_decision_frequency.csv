@@ -1,0 +1,7 @@
+gate,chosen_expert,n,share
+Gate A Low/Medium predicted -> Residual,Residual FTS-XGBoost,246,0.5125
+Gate A Low/Medium predicted -> Residual,XGBoost Direct,234,0.4875
+Gate B Low predicted -> Residual,Residual FTS-XGBoost,33,0.06875
+Gate B Low predicted -> Residual,XGBoost Direct,447,0.93125
+Gate C Normal predicted -> Feature Hybrid,Hybrid feature-based,385,0.8020833333333334
+Gate C Normal predicted -> Feature Hybrid,XGBoost Direct,95,0.19791666666666666

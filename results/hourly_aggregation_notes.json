@@ -1,0 +1,16 @@
+{
+  "raw_rows": 19735,
+  "hourly_rows_before_drop": 3290,
+  "hourly_rows_after_drop": 3289,
+  "incomplete_hours": 1,
+  "incomplete_hour_timestamps": [
+    "2016-05-27T18:00:00"
+  ],
+  "target_unit": "Total energy used during the one-hour interval, in kWh",
+  "aggregation": {
+    "Appliances": "sum six 10-minute Wh intervals, then divide by 1000 to kWh",
+    "lights": "sum six 10-minute intervals",
+    "temperature_humidity_weather": "mean",
+    "raw_count": "count of 10-minute records in each hourly window"
+  }
+}

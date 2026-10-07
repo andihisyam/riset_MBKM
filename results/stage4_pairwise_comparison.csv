@@ -1,0 +1,4 @@
+comparison,a_wins,b_wins,ties,mean_difference,median_difference,wilcoxon_p,n
+XGBoost Direct minus Best Threshold Gated Hybrid,4,11,5,0.08704831968224136,0.011257830262619173,0.060892661900952515,20
+XGBoost Direct minus Best Learned Gated Hybrid,6,3,0,-0.3387282168377966,-0.38182520763759165,,9
+XGBoost Direct minus XGBoost-FTS Residual Correction,17,3,0,-5.725652915169507,-8.854407805611402,0.0008622024716819173,20

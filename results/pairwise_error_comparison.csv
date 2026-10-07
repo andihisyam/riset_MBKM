@@ -1,0 +1,4 @@
+comparison,model_a_wins,model_b_wins,ties,mean_error_difference,wilcoxon_stat,wilcoxon_p,n
+XGBoost Direct minus Weekly Seasonal,21,19,0,-0.4643145947158341,359.0,0.5013747400735156,40
+Hybrid feature-based minus XGBoost Direct,19,21,0,-0.012483327090740204,394.0,0.8367550107286661,40
+Residual FTS-XGBoost minus XGBoost Direct,21,19,0,0.11164416227028018,382.0,0.7145974449867936,40

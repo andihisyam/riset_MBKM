@@ -1,0 +1,1441 @@
+origin_index,origin,horizon,actual,predicted,chosen_expert,gate
+2794,2016-05-07 03:00:00,1,0.33,0.3131571960362297,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,2,0.31,0.2560621489751776,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,3,0.32,0.37895737411017194,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,4,0.89,0.5767307877540588,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,5,0.73,0.6273910403251648,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,6,0.92,0.7302546501159668,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,7,1.07,0.8136014342308044,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,8,0.97,0.815625786781311,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,9,0.52,0.7768139243125916,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,10,0.45,0.7138769030570984,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,11,0.53,0.6649731993675232,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,12,0.62,0.5836546421051025,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,13,0.55,0.6836129426956177,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,14,0.5,0.9007048010826111,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,15,1.71,0.8348357081413269,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,16,0.72,0.7242147326469421,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,17,0.52,0.6040345430374146,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,18,0.34,0.30520971404581476,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,19,0.35,0.20543147908716608,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,20,0.34,0.18271144019632746,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,21,0.35,0.1898795543816607,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,22,0.31,0.20976354466944147,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,23,0.33,0.21000732766657282,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,24,0.34,0.2224943815377276,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,1,0.3,0.4148539480480057,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,2,0.34,0.30222836034183104,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,3,0.3,0.4897852522277333,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,4,0.36,0.6606159806251526,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,5,1.1,0.7914354801177979,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,6,0.86,0.789680004119873,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,7,0.81,0.8962053656578064,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,8,0.3,0.6310574412345886,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,9,0.34,0.6370944976806641,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,10,0.34,0.4611479519513171,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,11,0.34,0.5592203736305237,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,12,0.3,0.4424778996613543,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,13,0.33,0.6192225217819214,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,14,0.34,0.8651043176651001,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,15,0.3,0.8710100054740906,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,16,0.36,0.652250349521637,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,17,0.47,0.5684261322021484,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,18,0.38,0.3037101505902331,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,19,0.35,0.2512024222519915,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,20,0.32,0.22759659873514582,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,21,0.33,0.21321769343882013,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,22,0.35,0.22830130445032526,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,23,0.33,0.22152103768854547,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2818,2016-05-08 03:00:00,24,0.32,0.21832473861246515,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,1,0.34,0.3304067463958586,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,2,0.39,0.25673054056052763,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,3,0.33,0.5167880487584569,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,4,0.34,0.5874375104904175,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,5,0.37,0.7487407922744751,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,6,0.4,0.7931191325187683,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,7,0.33,1.005784273147583,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,8,0.37,1.1204804182052612,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,9,0.81,1.0836021900177002,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,10,1.04,0.931027352809906,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,11,0.53,0.8782047629356384,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,12,0.42,0.8713253736495972,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,13,0.47,0.8738559484481812,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,14,1.61,1.0375897884368896,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,15,0.72,0.9580249786376953,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,16,0.66,0.7149326205253601,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,17,0.57,0.5530499815940857,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,18,0.43,0.3083507894185107,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,19,0.43,0.26246895181208063,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,20,0.36,0.21715487824945856,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,21,0.31,0.22038390027552057,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,22,0.33,0.243034201731972,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,23,0.34,0.25566329347162653,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2842,2016-05-09 03:00:00,24,0.34,0.1664420543816607,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,1,0.3,0.3120794583770138,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,2,0.43,0.2325573255289038,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,3,0.38,0.37699691773886457,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,4,0.36,0.4586122511532824,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,5,0.34,0.4538669763711016,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,6,0.33,0.5787925720214844,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,7,0.32,0.4459145842698138,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,8,0.34,0.5597625970840454,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,9,0.35,0.567180871963501,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,10,0.32,0.40059311973123957,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,11,0.32,0.41594688879518915,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,12,0.34,0.38220854388742853,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,13,0.38,0.6055198311805725,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,14,0.76,0.8945968747138977,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,15,0.61,0.9520509243011475,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,16,0.63,0.7412436008453369,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,17,0.57,0.6927926540374756,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,18,0.41,0.33640958653955866,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,19,0.35,0.2374249874260943,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,20,0.34,0.20741249906092096,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,21,0.31,0.18251480447321344,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,22,0.34,0.202148872485451,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,23,0.34,0.1911589084771197,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2866,2016-05-10 03:00:00,24,0.32,0.17818685161142755,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,1,0.31,0.32018859175685294,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,2,0.41,0.25245682792548735,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,3,0.66,0.3993502092504002,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,4,0.46,0.5055205701497119,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,5,0.97,0.6397114396095276,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,6,0.39,0.6993300318717957,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,7,0.38,0.6977792978286743,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,8,0.33,0.7204374670982361,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,9,0.34,0.8976938724517822,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,10,0.44,0.9805276989936829,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,11,0.48,0.7604479789733887,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,12,0.46,0.8794835805892944,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,13,0.45,0.8715103268623352,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,14,0.55,1.097575306892395,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,15,0.61,1.088706612586975,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,16,0.57,0.8534747362136841,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,17,0.51,0.46367149340181757,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,18,0.37,0.3344882904198687,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,19,0.33,0.27519305335550714,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,20,0.34,0.22348197089701105,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,21,0.34,0.17503698455362726,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,22,0.34,0.1827350436356585,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,23,0.34,0.19081731425791193,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2890,2016-05-11 03:00:00,24,0.3,0.1477616606858294,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,1,0.34,0.3373602698181547,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,2,0.37,0.41889318314512247,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,3,0.29,0.5375074331423529,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,4,0.35,0.5943799614906311,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,5,0.31,0.8090826869010925,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,6,0.29,0.8179436922073364,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,7,0.35,0.7522977590560913,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,8,0.3,0.8642846941947937,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,9,0.33,0.9002982974052429,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,10,0.34,0.7257166504859924,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,11,0.34,0.6285256743431091,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,12,0.41,0.7382689714431763,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,13,0.71,0.7217996716499329,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,14,1.25,0.988290548324585,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,15,0.63,0.908243715763092,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,16,0.74,0.6499500274658203,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,17,0.6,0.4646014748719256,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,18,0.43,0.29037459479837824,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,19,0.36,0.23769076453714777,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,20,0.34,0.20924695121317316,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,21,0.33,0.19691981660395075,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,22,0.32,0.21548898803263117,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,23,0.35,0.21131493436365534,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2914,2016-05-12 03:00:00,24,0.35,0.2029519854691546,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,1,0.3,0.40466930614595015,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,2,0.35,0.504395155324886,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,3,0.88,0.45446567522554804,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,4,1.06,0.5225669025090258,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,5,2.03,0.6202465891838074,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,6,0.56,0.7438926100730896,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,7,0.44,0.9166752696037292,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,8,2.13,1.0490974187850952,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,9,1.81,0.96410071849823,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,10,1.61,0.8538294434547424,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,11,1.91,0.7712704539299011,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,12,1.21,0.8300963044166565,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,13,2.11,0.9160863757133484,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,14,1.39,1.1502206325531006,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,15,2.09,1.3288304805755615,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,16,1.25,0.9291264414787292,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,17,0.72,0.7701014876365662,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,18,0.38,0.3440185962822955,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,19,0.33,0.22943486558466364,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,20,0.37,0.2031871853974383,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,21,0.35,0.19033427821665216,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,22,0.38,0.2016058145669024,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,23,0.36,0.18962253915338922,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2938,2016-05-13 03:00:00,24,0.36,0.1791514335778277,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,1,0.36,0.40365932034139235,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,2,0.34,0.5096388441466786,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,3,0.38,0.6162109971046448,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,4,0.68,0.8745483756065369,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,5,0.8,1.016373634338379,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,6,0.71,0.9335623383522034,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,7,0.95,0.8834730982780457,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,8,0.58,0.9162780046463013,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,9,0.7,0.8770484328269958,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,10,0.68,0.8870110511779785,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,11,0.64,0.7253036499023438,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,12,0.78,0.8236589431762695,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,13,0.67,0.7530000805854797,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,14,1.45,0.9829537272453308,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,15,1.0,1.1623363494873047,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,16,0.54,0.8820335268974304,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,17,0.52,0.7434741854667664,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,18,0.45,0.38008781062632013,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,19,0.37,0.2650787411835711,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,20,0.29,0.2015183745530169,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,21,0.32,0.20584596978693415,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,22,0.33,0.21720208512812067,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,23,0.31,0.20877184258966852,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2962,2016-05-14 03:00:00,24,0.24,0.20846255408792902,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,1,0.31,0.2530917751781807,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,2,0.34,0.176890502252611,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,3,0.31,0.12227892773036558,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,4,0.56,0.4163063299798466,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,5,0.71,0.5674651265144348,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,6,0.61,0.7055376768112183,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,7,0.65,0.6640186905860901,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,8,0.63,0.7706085443496704,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,9,0.58,0.6308140754699707,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,10,0.82,0.5582357048988342,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,11,0.53,0.5901753902435303,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,12,0.56,0.5866652131080627,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,13,0.86,0.6247348785400391,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,14,1.42,0.8234904408454895,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,15,0.59,0.8372747898101807,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,16,0.58,0.7062904238700867,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,17,1.48,0.6563475728034973,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,18,1.22,0.41538639651804377,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,19,0.52,0.24637814151316095,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,20,0.5,0.23533417569666315,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,21,0.37,0.20212836848764826,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,22,0.32,0.22421612130670954,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,23,0.34,0.20087094890146662,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2986,2016-05-15 03:00:00,24,0.32,0.19826312648325373,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,1,0.33,0.31134494630339987,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,2,0.31,0.23113925652389128,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,3,0.32,0.36222259522909894,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,4,0.37,0.3987533031609576,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,5,0.53,0.5760370492935181,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,6,0.42,0.7073834538459778,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,7,0.89,0.8221484422683716,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,8,0.62,0.7947757244110107,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,9,1.24,0.9963514804840088,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,10,1.6,0.9151437282562256,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,11,0.53,0.8572473526000977,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,12,0.67,0.7479801177978516,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,13,0.53,0.6876973509788513,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,14,1.46,0.9758353233337402,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,15,0.93,0.923054039478302,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,16,0.69,0.8639848828315735,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,17,0.58,0.7177695035934448,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,18,0.41,0.5976818799972534,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,19,0.28,0.2951167701390307,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,20,0.36,0.2225731192734759,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,21,0.3,0.2057835637238543,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,22,0.33,0.20278503285913874,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,23,0.31,0.18845172511606623,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3010,2016-05-16 03:00:00,24,0.32,0.17622019635706354,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,1,0.32,0.3344156169677103,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,2,0.35,0.2557259787786444,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,3,0.34,0.3773571980142094,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,4,0.39,0.4676944492962878,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,5,0.34,0.4843513845112841,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,6,0.31,0.5699115991592407,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,7,0.32,0.5507209300994873,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,8,0.31,0.6185063719749451,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,9,0.32,0.5535609126091003,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,10,0.25,0.4596882043984454,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,11,0.32,0.42182062851458,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,12,0.31,0.5965415835380554,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,13,0.4,0.6450541615486145,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,14,0.92,0.9167169332504272,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,15,0.6,1.070496678352356,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,16,0.74,0.7314745187759399,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,17,0.71,0.5812046527862549,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,18,0.39,0.335412758460335,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,19,0.28,0.28806956397562433,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,20,0.33,0.20481433259516169,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,21,0.31,0.183941024413399,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,22,0.32,0.2312861262467425,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,23,0.33,0.18517954932718683,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3034,2016-05-17 03:00:00,24,0.31,0.203463512530617,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,1,0.31,0.3281349153602446,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,2,0.39,0.26839576558951933,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,3,0.42,0.4030823838853337,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,4,0.32,0.48486458050280024,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,5,0.37,0.43831651197939325,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,6,0.39,0.4018968223240893,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,7,0.35,0.36099858867197443,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,8,0.42,0.3675269960072558,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,9,0.34,0.5818789005279541,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,10,0.52,0.4597104071286242,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,11,0.49,0.5611280202865601,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,12,0.5,0.414725559821419,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,13,0.63,0.6554644703865051,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,14,0.71,0.9131098389625549,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,15,1.07,0.8497092127799988,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,16,0.86,0.6285175681114197,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,17,1.34,0.4374251543190997,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,18,0.49,0.2997797011044543,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,19,0.31,0.23966677772074152,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,20,0.34,0.2074310361054461,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,21,0.31,0.18498857604532648,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,22,0.31,0.17653401481180597,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,23,0.3,0.18500997411280085,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3058,2016-05-18 03:00:00,24,0.31,0.14983727323084284,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,1,0.34,0.31884625045302756,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,2,0.33,0.27140077845935423,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,3,0.35,0.37564517380232587,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,4,0.3,0.3902178286221545,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,5,0.32,0.44153760658770014,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,6,0.22,0.6147183179855347,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,7,0.33,0.6050194501876831,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,8,0.31,0.6986203789710999,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,9,0.33,0.4531716583874743,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,10,0.3,0.4676888166573565,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,11,0.38,0.4297456024792712,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,12,0.49,0.6212279200553894,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,13,0.54,0.697992205619812,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,14,1.25,0.9402140378952026,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,15,0.72,1.0211886167526245,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,16,0.59,0.7796900272369385,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,17,0.71,0.7597241997718811,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,18,0.4,0.39140190469294,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,19,0.3,0.24476506101160456,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,20,0.34,0.22058834420710016,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,21,0.31,0.18566181050806452,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,22,0.31,0.1880766330864947,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,23,0.22,0.17487325059442926,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3082,2016-05-19 03:00:00,24,0.35,0.1688224254754107,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,1,0.31,0.40151753919009764,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,2,0.37,0.554857088341663,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,3,0.4,0.4908579765465777,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,4,0.48,0.5316313682702105,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,5,0.76,0.6534122228622437,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,6,0.44,0.7488304972648621,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,7,0.49,0.7984795570373535,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,8,0.44,0.876017689704895,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,9,0.43,0.8035893440246582,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,10,0.37,0.9176387190818787,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,11,0.36,0.8625734448432922,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,12,0.28,0.9861080050468445,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,13,0.29,0.9107725024223328,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,14,0.45,1.4524860382080078,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,15,0.47,1.2863376140594482,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,16,0.39,0.8037846684455872,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,17,0.42,0.6449216604232788,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,18,0.39,0.3118439792302172,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,19,0.32,0.2448923765328448,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,20,0.27,0.20400502072840143,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,21,0.29,0.18843742000132013,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,22,0.31,0.1900396524575274,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,23,0.34,0.16177268611460138,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3106,2016-05-20 03:00:00,24,0.29,0.15308930264978815,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,1,0.34,0.33055981570824755,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,2,0.31,0.4138296344610023,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,3,0.36,0.4250367616078147,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,4,0.34,0.556867778301239,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,5,1.25,0.7271162867546082,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,6,1.86,0.7668256759643555,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,7,2.3,0.9498497843742371,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,8,2.59,0.9641481041908264,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,9,1.37,0.8404987454414368,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,10,2.06,0.8480122685432434,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,11,1.82,0.9281203746795654,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,12,2.17,1.0295382738113403,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,13,0.6,1.0101982355117798,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,14,0.57,1.117321491241455,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,15,0.75,1.1439661979675293,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,16,0.65,0.7903518676757812,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,17,0.57,0.5611692070960999,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,18,0.81,0.32159029232531,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,19,0.44,0.25846912251978327,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,20,0.89,0.20428540097742487,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,21,0.36,0.21460493194132257,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,22,0.34,0.2043942986634295,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,23,0.31,0.2335659443047564,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3130,2016-05-21 03:00:00,24,0.32,0.17516567098169733,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,1,0.33,0.30365503815654166,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,2,0.3,0.22186092929725248,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,3,0.35,0.3593251836442448,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,4,0.38,0.3585829316285174,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,5,1.14,0.44847108708887506,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,6,0.68,0.6914540529251099,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,7,1.21,0.7243998050689697,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,8,2.06,0.8188140392303467,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,9,0.76,0.8447250127792358,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,10,0.62,0.747887134552002,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,11,0.64,0.7394953966140747,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,12,0.58,0.478247243037514,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,13,0.53,0.62408047914505,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,14,1.59,0.6900243759155273,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,15,0.72,0.9684374928474426,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,16,0.58,0.8368738889694214,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,17,0.7,0.7104288339614868,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,18,0.53,0.682283341884613,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,19,0.47,0.3502543448117297,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,20,0.36,0.2618869720604937,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,21,0.35,0.21339978562860895,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,22,0.31,0.23865689622431208,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,23,0.35,0.29391949163942743,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3154,2016-05-22 03:00:00,24,0.31,0.40108849393396784,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,1,0.3,0.3206129544759119,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,2,0.4,0.23744898931865294,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,3,0.36,0.3824103307866551,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,4,0.34,0.4207714675572436,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,5,0.31,0.5889915227890015,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,6,0.33,0.7624880075454712,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,7,0.31,0.758068323135376,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,8,0.34,0.7241256237030029,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,9,0.37,0.7752829790115356,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,10,0.34,0.6843627095222473,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,11,0.35,0.6957831382751465,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,12,0.44,0.6747620105743408,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,13,0.94,0.691920280456543,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,14,2.28,0.9120381474494934,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,15,0.74,1.0805636644363403,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,16,0.72,0.832991898059845,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,17,0.63,0.7546213269233704,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,18,0.41,0.5623142719268799,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,19,0.38,0.25921590911417414,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,20,0.35,0.2250910578873675,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,21,0.3,0.19241644727259088,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,22,0.34,0.19397540675669123,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,23,0.33,0.18612332927256037,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3178,2016-05-23 03:00:00,24,0.32,0.17782862769632746,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,1,0.32,0.3283986174846018,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,2,0.64,0.2497474391925772,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,3,0.43,0.3912723493718602,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,4,0.97,0.5709335981514971,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,5,0.34,0.44816665636568476,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,6,0.23,0.5811997652053833,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,7,0.4,0.6482800245285034,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,8,0.61,0.386297780146889,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,9,0.77,0.4501337586548846,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,10,0.71,0.39296551333933283,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,11,0.9,0.4308132110741656,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,12,0.85,0.4078858076241534,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,13,0.85,0.6464210152626038,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,14,1.22,0.9692453145980835,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,15,0.82,1.1150943040847778,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,16,0.74,0.8273886442184448,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,17,0.58,0.678881049156189,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,18,0.46,0.3269935725834887,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,19,0.37,0.23833741532831598,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,20,0.35,0.21460230933695246,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,21,0.32,0.18382056342630793,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,22,0.32,0.2070650635865252,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,23,0.34,0.18818785535364557,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3202,2016-05-24 03:00:00,24,0.29,0.1932692109253924,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,1,0.33,0.3238080660437025,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,2,0.33,0.37493435529191965,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,3,0.33,0.4043229554554709,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,4,0.39,0.4643008886483233,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,5,0.5,0.47616581903963495,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,6,0.54,0.5963210463523865,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,7,0.47,0.5911810994148254,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,8,0.3,0.6637958288192749,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,9,0.36,0.6617619395256042,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,10,0.43,0.6512783765792847,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,11,0.48,0.46448101388483454,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,12,0.48,0.6108852028846741,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,13,1.39,0.613455057144165,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,14,0.71,0.930142343044281,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,15,0.94,0.9820278286933899,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,16,0.71,0.7666783928871155,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,17,1.14,0.7488011121749878,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,18,0.34,0.37307115184336115,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,19,0.32,0.2388532339242022,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,20,0.32,0.22215666162043024,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,21,0.32,0.17501844750910212,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,22,0.33,0.1994790612366717,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,23,0.3,0.18661405431299616,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3226,2016-05-25 03:00:00,24,0.34,0.16776825772791315,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,1,0.3,0.31088277592385827,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,2,0.34,0.2927113612163504,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,3,0.37,0.46325631262297406,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,4,0.6,0.5842279195785522,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,5,0.94,0.690608561038971,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,6,1.66,0.7251575589179993,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,7,1.59,0.6203023791313171,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,8,1.46,0.4080323158410113,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,9,1.33,0.37804095732241083,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,10,0.45,0.3252541600373309,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,11,0.41,0.4114374397900622,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,12,0.37,0.5563936829566956,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,13,2.97,0.6890097260475159,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,14,2.64,0.9551495909690857,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,15,1.29,0.9959184527397156,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,16,1.34,0.7243296504020691,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,17,0.55,0.585658073425293,XGBoost Direct,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,18,0.46,0.27206255780725885,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,19,0.42,0.22811343060999323,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,20,0.39,0.19855131494074274,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,21,0.36,0.1864276705887835,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,22,0.35,0.20157785998850275,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,23,0.3,0.1909486828949969,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+3250,2016-05-26 03:00:00,24,0.35,0.2039104281571429,Residual FTS-XGBoost,Gate A Low/Medium predicted -> Residual
+2794,2016-05-07 03:00:00,1,0.33,0.32375767827033997,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,2,0.31,0.34397652745246887,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,3,0.32,0.3820997178554535,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,4,0.89,0.5767307877540588,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,5,0.73,0.6273910403251648,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,6,0.92,0.7302546501159668,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,7,1.07,0.8136014342308044,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,8,0.97,0.815625786781311,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,9,0.52,0.7768139243125916,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,10,0.45,0.7138769030570984,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,11,0.53,0.6649731993675232,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,12,0.62,0.5836546421051025,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,13,0.55,0.6836129426956177,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,14,0.5,0.9007048010826111,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,15,1.71,0.8348357081413269,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,16,0.72,0.7242147326469421,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,17,0.52,0.6040345430374146,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,18,0.34,0.41129064559936523,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,19,0.35,0.3434820771217346,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,20,0.34,0.3228585124015808,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,21,0.35,0.1898795543816607,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,22,0.31,0.3469415605068207,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,23,0.33,0.3375624418258667,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,24,0.34,0.33724600076675415,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,1,0.3,0.4533410966396332,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,2,0.34,0.45997723937034607,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,3,0.3,0.5489590764045715,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,4,0.36,0.6606159806251526,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,5,1.1,0.7914354801177979,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,6,0.86,0.789680004119873,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,7,0.81,0.8962053656578064,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,8,0.3,0.6310574412345886,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,9,0.34,0.6370944976806641,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,10,0.34,0.5398020148277283,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,11,0.34,0.5592203736305237,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,12,0.3,0.5420961380004883,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,13,0.33,0.6192225217819214,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,14,0.34,0.8651043176651001,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,15,0.3,0.8710100054740906,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,16,0.36,0.652250349521637,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,17,0.47,0.5684261322021484,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,18,0.38,0.43248841166496277,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,19,0.35,0.3618788719177246,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,20,0.32,0.3513597846031189,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,21,0.33,0.3288017511367798,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,22,0.35,0.3582109808921814,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,23,0.33,0.3260500729084015,XGBoost Direct,Gate B Low predicted -> Residual
+2818,2016-05-08 03:00:00,24,0.32,0.34068945050239563,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,1,0.34,0.32856684923171997,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,2,0.39,0.35613712668418884,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,3,0.33,0.5422315001487732,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,4,0.34,0.5874375104904175,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,5,0.37,0.7487407922744751,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,6,0.4,0.7931191325187683,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,7,0.33,1.005784273147583,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,8,0.37,1.1204804182052612,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,9,0.81,1.0836021900177002,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,10,1.04,0.931027352809906,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,11,0.53,0.8782047629356384,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,12,0.42,0.8713253736495972,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,13,0.47,0.8738559484481812,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,14,1.61,1.0375897884368896,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,15,0.72,0.9580249786376953,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,16,0.66,0.7149326205253601,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,17,0.57,0.5530499815940857,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,18,0.43,0.4510892927646637,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,19,0.43,0.37798595428466797,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,20,0.36,0.34995535016059875,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,21,0.31,0.38477951288223267,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,22,0.33,0.38972628116607666,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,23,0.34,0.37613773345947266,XGBoost Direct,Gate B Low predicted -> Residual
+2842,2016-05-09 03:00:00,24,0.34,0.1664420543816607,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,1,0.3,0.3216589689254761,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,2,0.43,0.3436962962150574,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,3,0.38,0.3547620177268982,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,4,0.36,0.47673237323760986,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,5,0.34,0.5189810395240784,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,6,0.33,0.5787925720214844,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,7,0.32,0.5483027100563049,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,8,0.34,0.5597625970840454,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,9,0.35,0.567180871963501,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,10,0.32,0.5130320191383362,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,11,0.32,0.5075512528419495,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,12,0.34,0.4624984562397003,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,13,0.38,0.6055198311805725,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,14,0.76,0.8945968747138977,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,15,0.61,0.9520509243011475,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,16,0.63,0.7412436008453369,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,17,0.57,0.6927926540374756,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,18,0.41,0.42873382568359375,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,19,0.35,0.35837242007255554,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,20,0.34,0.3297916054725647,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,21,0.31,0.18251480447321344,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,22,0.34,0.3265564441680908,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,23,0.34,0.31815046072006226,XGBoost Direct,Gate B Low predicted -> Residual
+2866,2016-05-10 03:00:00,24,0.32,0.17818685161142755,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,1,0.31,0.32335329055786133,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,2,0.41,0.347280353307724,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,3,0.66,0.3782386779785156,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,4,0.46,0.5188928842544556,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,5,0.97,0.6397114396095276,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,6,0.39,0.6993300318717957,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,7,0.38,0.6977792978286743,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,8,0.33,0.7204374670982361,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,9,0.34,0.8976938724517822,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,10,0.44,0.9805276989936829,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,11,0.48,0.7604479789733887,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,12,0.46,0.8794835805892944,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,13,0.45,0.8715103268623352,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,14,0.55,1.097575306892395,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,15,0.61,1.088706612586975,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,16,0.57,0.8534747362136841,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,17,0.51,0.5057066679000854,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,18,0.37,0.4141733944416046,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,19,0.33,0.3632788062095642,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,20,0.34,0.33056071400642395,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,21,0.34,0.17503698455362726,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,22,0.34,0.1827350436356585,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,23,0.34,0.3157498836517334,XGBoost Direct,Gate B Low predicted -> Residual
+2890,2016-05-11 03:00:00,24,0.3,0.1477616606858294,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,1,0.34,0.34889480471611023,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,2,0.37,0.44716352224349976,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,3,0.29,0.4816451370716095,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,4,0.35,0.5943799614906311,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,5,0.31,0.8090826869010925,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,6,0.29,0.8179436922073364,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,7,0.35,0.7522977590560913,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,8,0.3,0.8642846941947937,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,9,0.33,0.9002982974052429,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,10,0.34,0.7257166504859924,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,11,0.34,0.6285256743431091,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,12,0.41,0.7382689714431763,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,13,0.71,0.7217996716499329,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,14,1.25,0.988290548324585,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,15,0.63,0.908243715763092,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,16,0.74,0.6499500274658203,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,17,0.6,0.5453259944915771,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,18,0.43,0.37087228894233704,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,19,0.36,0.3496169149875641,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,20,0.34,0.337770015001297,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,21,0.33,0.3258890211582184,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,22,0.32,0.32564592361450195,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,23,0.35,0.33759766817092896,XGBoost Direct,Gate B Low predicted -> Residual
+2914,2016-05-12 03:00:00,24,0.35,0.32647621631622314,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,1,0.3,0.32728222012519836,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,2,0.35,0.34822556376457214,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,3,0.88,0.38328492641448975,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,4,1.06,0.5343369841575623,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,5,2.03,0.6202465891838074,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,6,0.56,0.7438926100730896,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,7,0.44,0.9166752696037292,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,8,2.13,1.0490974187850952,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,9,1.81,0.96410071849823,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,10,1.61,0.8538294434547424,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,11,1.91,0.7712704539299011,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,12,1.21,0.8300963044166565,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,13,2.11,0.9160863757133484,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,14,1.39,1.1502206325531006,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,15,2.09,1.3288304805755615,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,16,1.25,0.9291264414787292,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,17,0.72,0.7701014876365662,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,18,0.38,0.4486963152885437,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,19,0.33,0.3365006148815155,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,20,0.37,0.3340321481227875,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,21,0.35,0.3265725374221802,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,22,0.38,0.32127997279167175,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,23,0.36,0.3133683502674103,XGBoost Direct,Gate B Low predicted -> Residual
+2938,2016-05-13 03:00:00,24,0.36,0.1791514335778277,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,1,0.36,0.32951921224594116,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,2,0.34,0.37810805439949036,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,3,0.38,0.6162109971046448,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,4,0.68,0.8745483756065369,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,5,0.8,1.016373634338379,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,6,0.71,0.9335623383522034,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,7,0.95,0.8834730982780457,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,8,0.58,0.9162780046463013,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,9,0.7,0.8770484328269958,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,10,0.68,0.8870110511779785,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,11,0.64,0.7253036499023438,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,12,0.78,0.8236589431762695,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,13,0.67,0.7530000805854797,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,14,1.45,0.9829537272453308,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,15,1.0,1.1623363494873047,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,16,0.54,0.8820335268974304,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,17,0.52,0.7434741854667664,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,18,0.45,0.4969610571861267,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,19,0.37,0.36475515365600586,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,20,0.29,0.3443371653556824,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,21,0.32,0.3396921157836914,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,22,0.33,0.3317343592643738,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,23,0.31,0.3368375599384308,XGBoost Direct,Gate B Low predicted -> Residual
+2962,2016-05-14 03:00:00,24,0.24,0.3264507055282593,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,1,0.31,0.31808724999427795,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,2,0.34,0.3325693607330322,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,3,0.31,0.3623064160346985,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,4,0.56,0.46381694078445435,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,5,0.71,0.5674651265144348,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,6,0.61,0.7055376768112183,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,7,0.65,0.6640186905860901,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,8,0.63,0.7706085443496704,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,9,0.58,0.6308140754699707,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,10,0.82,0.5582357048988342,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,11,0.53,0.5901753902435303,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,12,0.56,0.5866652131080627,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,13,0.86,0.6247348785400391,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,14,1.42,0.8234904408454895,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,15,0.59,0.8372747898101807,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,16,0.58,0.7062904238700867,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,17,1.48,0.6563475728034973,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,18,1.22,0.54632568359375,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,19,0.52,0.3772718608379364,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,20,0.5,0.34270116686820984,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,21,0.37,0.3236921727657318,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,22,0.32,0.33194926381111145,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,23,0.34,0.32127583026885986,XGBoost Direct,Gate B Low predicted -> Residual
+2986,2016-05-15 03:00:00,24,0.32,0.3323780298233032,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,1,0.33,0.3109492361545563,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,2,0.31,0.31957781314849854,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,3,0.32,0.330122172832489,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,4,0.37,0.40366828441619873,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,5,0.53,0.5760370492935181,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,6,0.42,0.7073834538459778,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,7,0.89,0.8221484422683716,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,8,0.62,0.7947757244110107,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,9,1.24,0.9963514804840088,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,10,1.6,0.9151437282562256,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,11,0.53,0.8572473526000977,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,12,0.67,0.7479801177978516,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,13,0.53,0.6876973509788513,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,14,1.46,0.9758353233337402,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,15,0.93,0.923054039478302,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,16,0.69,0.8639848828315735,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,17,0.58,0.7177695035934448,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,18,0.41,0.5976818799972534,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,19,0.28,0.4185699224472046,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,20,0.36,0.34263452887535095,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,21,0.3,0.33044207096099854,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,22,0.33,0.3313915729522705,XGBoost Direct,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,23,0.31,0.18845172511606623,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3010,2016-05-16 03:00:00,24,0.32,0.17622019635706354,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,1,0.32,0.3174632787704468,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,2,0.35,0.3366030752658844,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,3,0.34,0.34338709712028503,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,4,0.39,0.4826827049255371,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,5,0.34,0.5256290435791016,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,6,0.31,0.5699115991592407,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,7,0.32,0.5507209300994873,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,8,0.31,0.6185063719749451,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,9,0.32,0.5535609126091003,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,10,0.25,0.5132180452346802,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,11,0.32,0.5085468888282776,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,12,0.31,0.5965415835380554,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,13,0.4,0.6450541615486145,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,14,0.92,0.9167169332504272,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,15,0.6,1.070496678352356,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,16,0.74,0.7314745187759399,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,17,0.71,0.5812046527862549,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,18,0.39,0.40736424922943115,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,19,0.28,0.397628515958786,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,20,0.33,0.3275880813598633,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,21,0.31,0.32320472598075867,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,22,0.32,0.3427463471889496,XGBoost Direct,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,23,0.33,0.18517954932718683,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3034,2016-05-17 03:00:00,24,0.31,0.203463512530617,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,1,0.31,0.31381896138191223,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,2,0.39,0.3437331020832062,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,3,0.42,0.38886845111846924,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,4,0.32,0.472877562046051,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,5,0.37,0.5221908688545227,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,6,0.39,0.4902368485927582,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,7,0.35,0.47119683027267456,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,8,0.42,0.5389418005943298,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,9,0.34,0.5818789005279541,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,10,0.52,0.5437661409378052,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,11,0.49,0.5611280202865601,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,12,0.5,0.5297571420669556,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,13,0.63,0.6554644703865051,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,14,0.71,0.9131098389625549,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,15,1.07,0.8497092127799988,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,16,0.86,0.6285175681114197,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,17,1.34,0.49938762187957764,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,18,0.49,0.3977622091770172,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,19,0.31,0.35019946098327637,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,20,0.34,0.3137655556201935,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,21,0.31,0.311624675989151,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,22,0.31,0.17653401481180597,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,23,0.3,0.3552094101905823,XGBoost Direct,Gate B Low predicted -> Residual
+3058,2016-05-18 03:00:00,24,0.31,0.14983727323084284,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,1,0.34,0.31884625045302756,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,2,0.33,0.32977670431137085,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,3,0.35,0.34681499004364014,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,4,0.3,0.3957393169403076,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,5,0.32,0.516235888004303,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,6,0.22,0.6147183179855347,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,7,0.33,0.6050194501876831,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,8,0.31,0.6986203789710999,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,9,0.33,0.5458625555038452,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,10,0.3,0.5094922184944153,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,11,0.38,0.5456804037094116,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,12,0.49,0.6212279200553894,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,13,0.54,0.697992205619812,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,14,1.25,0.9402140378952026,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,15,0.72,1.0211886167526245,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,16,0.59,0.7796900272369385,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,17,0.71,0.7597241997718811,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,18,0.4,0.5171491503715515,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,19,0.3,0.37249934673309326,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,20,0.34,0.32933518290519714,XGBoost Direct,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,21,0.31,0.18566181050806452,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,22,0.31,0.1880766330864947,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,23,0.22,0.17487325059442926,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3082,2016-05-19 03:00:00,24,0.35,0.1688224254754107,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,1,0.31,0.40151753919009764,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,2,0.37,0.32223498821258545,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,3,0.4,0.36345168948173523,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,4,0.48,0.5184495449066162,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,5,0.76,0.6534122228622437,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,6,0.44,0.7488304972648621,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,7,0.49,0.7984795570373535,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,8,0.44,0.876017689704895,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,9,0.43,0.8035893440246582,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,10,0.37,0.9176387190818787,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,11,0.36,0.8625734448432922,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,12,0.28,0.9861080050468445,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,13,0.29,0.9107725024223328,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,14,0.45,1.4524860382080078,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,15,0.47,1.2863376140594482,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,16,0.39,0.8037846684455872,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,17,0.42,0.6449216604232788,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,18,0.39,0.4186721742153168,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,19,0.32,0.34761524200439453,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,20,0.27,0.3320200443267822,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,21,0.29,0.31857600808143616,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,22,0.31,0.31400802731513977,XGBoost Direct,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,23,0.34,0.16177268611460138,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3106,2016-05-20 03:00:00,24,0.29,0.15308930264978815,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,1,0.34,0.3451787233352661,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,2,0.31,0.3482655882835388,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,3,0.36,0.4163729250431061,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,4,0.34,0.556867778301239,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,5,1.25,0.7271162867546082,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,6,1.86,0.7668256759643555,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,7,2.3,0.9498497843742371,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,8,2.59,0.9641481041908264,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,9,1.37,0.8404987454414368,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,10,2.06,0.8480122685432434,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,11,1.82,0.9281203746795654,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,12,2.17,1.0295382738113403,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,13,0.6,1.0101982355117798,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,14,0.57,1.117321491241455,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,15,0.75,1.1439661979675293,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,16,0.65,0.7903518676757812,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,17,0.57,0.5611692070960999,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,18,0.81,0.43219059705734253,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,19,0.44,0.36473506689071655,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,20,0.89,0.3259895443916321,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,21,0.36,0.34740394353866577,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,22,0.34,0.32154566049575806,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,23,0.31,0.34908249974250793,XGBoost Direct,Gate B Low predicted -> Residual
+3130,2016-05-21 03:00:00,24,0.32,0.33380720019340515,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,1,0.33,0.30365503815654166,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,2,0.3,0.22186092929725248,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,3,0.35,0.3593251836442448,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,4,0.38,0.35776934027671814,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,5,1.14,0.5361580848693848,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,6,0.68,0.6914540529251099,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,7,1.21,0.7243998050689697,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,8,2.06,0.8188140392303467,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,9,0.76,0.8447250127792358,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,10,0.62,0.747887134552002,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,11,0.64,0.7394953966140747,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,12,0.58,0.532586395740509,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,13,0.53,0.62408047914505,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,14,1.59,0.6900243759155273,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,15,0.72,0.9684374928474426,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,16,0.58,0.8368738889694214,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,17,0.7,0.7104288339614868,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,18,0.53,0.682283341884613,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,19,0.47,0.4733163118362427,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,20,0.36,0.3620638847351074,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,21,0.35,0.3254365026950836,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,22,0.31,0.37160995602607727,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,23,0.35,0.4507882595062256,XGBoost Direct,Gate B Low predicted -> Residual
+3154,2016-05-22 03:00:00,24,0.31,0.5205430388450623,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,1,0.3,0.32778218388557434,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,2,0.4,0.3500412404537201,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,3,0.36,0.35208889842033386,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,4,0.34,0.4370909035205841,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,5,0.31,0.5889915227890015,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,6,0.33,0.7624880075454712,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,7,0.31,0.758068323135376,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,8,0.34,0.7241256237030029,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,9,0.37,0.7752829790115356,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,10,0.34,0.6843627095222473,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,11,0.35,0.6957831382751465,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,12,0.44,0.6747620105743408,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,13,0.94,0.691920280456543,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,14,2.28,0.9120381474494934,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,15,0.74,1.0805636644363403,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,16,0.72,0.832991898059845,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,17,0.63,0.7546213269233704,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,18,0.41,0.5623142719268799,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,19,0.38,0.3848821520805359,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,20,0.35,0.35123366117477417,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,21,0.3,0.31393861770629883,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,22,0.34,0.3159707188606262,XGBoost Direct,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,23,0.33,0.18612332927256037,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3178,2016-05-23 03:00:00,24,0.32,0.17782862769632746,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,1,0.32,0.32553017139434814,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,2,0.64,0.33683648705482483,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,3,0.43,0.34661853313446045,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,4,0.97,0.5287243723869324,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,5,0.34,0.5262629985809326,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,6,0.23,0.5811997652053833,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,7,0.4,0.6482800245285034,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,8,0.61,0.5067088603973389,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,9,0.77,0.5149014592170715,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,10,0.71,0.4976705014705658,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,11,0.9,0.5296820998191833,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,12,0.85,0.4819718897342682,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,13,0.85,0.6464210152626038,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,14,1.22,0.9692453145980835,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,15,0.82,1.1150943040847778,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,16,0.74,0.8273886442184448,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,17,0.58,0.678881049156189,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,18,0.46,0.4156304597854614,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,19,0.37,0.361581027507782,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,20,0.35,0.3320666253566742,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,21,0.32,0.3118175268173218,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,22,0.32,0.31899285316467285,XGBoost Direct,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,23,0.34,0.18818785535364557,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3202,2016-05-24 03:00:00,24,0.29,0.1932692109253924,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,1,0.33,0.3215848207473755,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,2,0.33,0.34680289030075073,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,3,0.33,0.3648299276828766,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,4,0.39,0.49160003662109375,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,5,0.5,0.5389038920402527,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,6,0.54,0.5963210463523865,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,7,0.47,0.5911810994148254,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,8,0.3,0.6637958288192749,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,9,0.36,0.6617619395256042,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,10,0.43,0.6512783765792847,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,11,0.48,0.5350919961929321,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,12,0.48,0.6108852028846741,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,13,1.39,0.613455057144165,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,14,0.71,0.930142343044281,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,15,0.94,0.9820278286933899,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,16,0.71,0.7666783928871155,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,17,1.14,0.7488011121749878,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,18,0.34,0.4910142719745636,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,19,0.32,0.362364798784256,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,20,0.32,0.3284144699573517,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,21,0.32,0.17501844750910212,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,22,0.33,0.3160153031349182,XGBoost Direct,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,23,0.3,0.18661405431299616,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3226,2016-05-25 03:00:00,24,0.34,0.16776825772791315,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,1,0.3,0.31088277592385827,Residual FTS-XGBoost,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,2,0.34,0.4380640983581543,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,3,0.37,0.4427042305469513,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,4,0.6,0.5842279195785522,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,5,0.94,0.690608561038971,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,6,1.66,0.7251575589179993,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,7,1.59,0.6203023791313171,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,8,1.46,0.49157071113586426,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,9,1.33,0.4899241626262665,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,10,0.45,0.4477722644805908,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,11,0.41,0.46657201647758484,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,12,0.37,0.5563936829566956,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,13,2.97,0.6890097260475159,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,14,2.64,0.9551495909690857,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,15,1.29,0.9959184527397156,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,16,1.34,0.7243296504020691,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,17,0.55,0.585658073425293,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,18,0.46,0.37901681661605835,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,19,0.42,0.3385937213897705,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,20,0.39,0.3198671340942383,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,21,0.36,0.31009241938591003,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,22,0.35,0.3172391951084137,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,23,0.3,0.31119927763938904,XGBoost Direct,Gate B Low predicted -> Residual
+3250,2016-05-26 03:00:00,24,0.35,0.32792970538139343,XGBoost Direct,Gate B Low predicted -> Residual
+2794,2016-05-07 03:00:00,1,0.33,0.3194418251514435,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,2,0.31,0.35700616240501404,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,3,0.32,0.38516342639923096,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,4,0.89,0.5412113666534424,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,5,0.73,0.659178614616394,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,6,0.92,0.7277544140815735,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,7,1.07,0.8136014342308044,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,8,0.97,0.815625786781311,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,9,0.52,0.802489161491394,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,10,0.45,0.6948906183242798,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,11,0.53,0.6799083948135376,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,12,0.62,0.6292985677719116,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,13,0.55,0.6803664565086365,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,14,0.5,0.9007048010826111,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,15,1.71,0.8348357081413269,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,16,0.72,0.7307503819465637,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,17,0.52,0.5731799602508545,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,18,0.34,0.42731139063835144,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,19,0.35,0.3475213348865509,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,20,0.34,0.32334914803504944,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,21,0.35,0.3153790533542633,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,22,0.31,0.3280903697013855,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,23,0.33,0.3277188837528229,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2794,2016-05-07 03:00:00,24,0.34,0.351583868265152,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,1,0.3,0.40865880250930786,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,2,0.34,0.4403539001941681,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,3,0.3,0.5390126705169678,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,4,0.36,0.7082898616790771,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,5,1.1,0.802391767501831,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,6,0.86,0.7828609943389893,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,7,0.81,0.8962053656578064,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,8,0.3,0.6417393088340759,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,9,0.34,0.6422216296195984,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,10,0.34,0.5770938396453857,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,11,0.34,0.5461621284484863,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,12,0.3,0.6107308268547058,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,13,0.33,0.6455744504928589,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,14,0.34,0.8651043176651001,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,15,0.3,0.8710100054740906,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,16,0.36,0.6899256110191345,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,17,0.47,0.5595733523368835,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,18,0.38,0.42199262976646423,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,19,0.35,0.376135915517807,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,20,0.32,0.3397355079650879,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,21,0.33,0.3364860713481903,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,22,0.35,0.34354305267333984,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,23,0.33,0.3259304165840149,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2818,2016-05-08 03:00:00,24,0.32,0.34795111417770386,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,1,0.34,0.31978511810302734,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,2,0.39,0.35713812708854675,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,3,0.33,0.538242757320404,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,4,0.34,0.5901833176612854,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,5,0.37,0.7819490432739258,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,6,0.4,0.8215699195861816,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,7,0.33,1.005784273147583,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,8,0.37,1.1204804182052612,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,9,0.81,1.0836021900177002,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,10,1.04,0.931027352809906,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,11,0.53,0.8782047629356384,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,12,0.42,0.8713253736495972,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,13,0.47,0.8738559484481812,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,14,1.61,1.0375897884368896,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,15,0.72,0.9580249786376953,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,16,0.66,0.762184202671051,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,17,0.57,0.579598605632782,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,18,0.43,0.48189663887023926,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,19,0.43,0.37405356764793396,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,20,0.36,0.36811181902885437,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,21,0.31,0.3824387490749359,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,22,0.33,0.3931501805782318,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,23,0.34,0.37289148569107056,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2842,2016-05-09 03:00:00,24,0.34,0.3066624402999878,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,1,0.3,0.3124408423900604,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,2,0.43,0.34843870997428894,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,3,0.38,0.3585193157196045,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,4,0.36,0.47101038694381714,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,5,0.34,0.5313153266906738,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,6,0.33,0.5891081690788269,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,7,0.32,0.5655110478401184,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,8,0.34,0.5940570831298828,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,9,0.35,0.5836119651794434,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,10,0.32,0.5153687596321106,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,11,0.32,0.48906567692756653,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,12,0.34,0.4882822036743164,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,13,0.38,0.5948207974433899,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,14,0.76,0.8945968747138977,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,15,0.61,0.9520509243011475,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,16,0.63,0.747147262096405,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,17,0.57,0.6763969659805298,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,18,0.41,0.45184382796287537,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,19,0.35,0.3680288791656494,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,20,0.34,0.3259337246417999,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,21,0.31,0.3157332241535187,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,22,0.34,0.33139580488204956,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,23,0.34,0.3141021728515625,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2866,2016-05-10 03:00:00,24,0.32,0.3097354471683502,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,1,0.31,0.2980969250202179,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,2,0.41,0.34115660190582275,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,3,0.66,0.3997185528278351,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,4,0.46,0.5000520348548889,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,5,0.97,0.6667579412460327,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,6,0.39,0.7139776945114136,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,7,0.38,0.7784774899482727,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,8,0.33,0.7396673560142517,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,9,0.34,0.8976938724517822,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,10,0.44,0.9805276989936829,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,11,0.48,0.636897087097168,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,12,0.46,0.8794835805892944,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,13,0.45,0.8715103268623352,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,14,0.55,1.097575306892395,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,15,0.61,1.088706612586975,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,16,0.57,0.8534747362136841,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,17,0.51,0.5273880362510681,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,18,0.37,0.45043009519577026,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,19,0.33,0.3759438097476959,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,20,0.34,0.3479004502296448,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,21,0.34,0.3010239005088806,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,22,0.34,0.3007264733314514,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,23,0.34,0.3314987123012543,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2890,2016-05-11 03:00:00,24,0.3,0.2567248046398163,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,1,0.34,0.3323766589164734,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,2,0.37,0.4395376741886139,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,3,0.29,0.49201875925064087,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,4,0.35,0.6441161036491394,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,5,0.31,0.7285003662109375,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,6,0.29,0.8179436922073364,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,7,0.35,0.7780587673187256,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,8,0.3,0.8642846941947937,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,9,0.33,0.9002982974052429,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,10,0.34,0.7227993011474609,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,11,0.34,0.5961273312568665,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,12,0.41,0.7137479782104492,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,13,0.71,0.858571469783783,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,14,1.25,0.988290548324585,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,15,0.63,0.908243715763092,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,16,0.74,0.6508752107620239,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,17,0.6,0.5648472905158997,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,18,0.43,0.40189898014068604,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,19,0.36,0.35415974259376526,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,20,0.34,0.3517971336841583,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,21,0.33,0.322933167219162,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,22,0.32,0.3489927649497986,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,23,0.35,0.338826447725296,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2914,2016-05-12 03:00:00,24,0.35,0.3192136883735657,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,1,0.3,0.35537734627723694,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,2,0.35,0.35873326659202576,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,3,0.88,0.40477147698402405,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,4,1.06,0.56268310546875,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,5,2.03,0.6315397620201111,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,6,0.56,0.7373591065406799,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,7,0.44,0.9166752696037292,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,8,2.13,1.0490974187850952,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,9,1.81,0.96410071849823,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,10,1.61,0.8538294434547424,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,11,1.91,0.8337568640708923,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,12,1.21,0.8300963044166565,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,13,2.11,0.9160863757133484,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,14,1.39,1.1502206325531006,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,15,2.09,1.3288304805755615,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,16,1.25,0.9291264414787292,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,17,0.72,0.7827256321907043,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,18,0.38,0.4584546387195587,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,19,0.33,0.36130276322364807,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,20,0.37,0.36386603116989136,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,21,0.35,0.325181245803833,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,22,0.38,0.3290160596370697,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,23,0.36,0.3142116367816925,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2938,2016-05-13 03:00:00,24,0.36,0.31108441948890686,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,1,0.36,0.3458878993988037,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,2,0.34,0.38304468989372253,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,3,0.38,0.6601579785346985,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,4,0.68,0.8745483756065369,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,5,0.8,1.016373634338379,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,6,0.71,0.9335623383522034,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,7,0.95,0.8834730982780457,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,8,0.58,0.9162780046463013,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,9,0.7,0.8770484328269958,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,10,0.68,0.8870110511779785,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,11,0.64,0.7745152115821838,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,12,0.78,0.8236589431762695,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,13,0.67,0.7445188164710999,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,14,1.45,0.9829537272453308,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,15,1.0,1.1623363494873047,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,16,0.54,0.8820335268974304,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,17,0.52,0.7258479595184326,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,18,0.45,0.5143371224403381,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,19,0.37,0.3964841067790985,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,20,0.29,0.3378310799598694,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,21,0.32,0.3260250687599182,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,22,0.33,0.3327803909778595,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,23,0.31,0.34073105454444885,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2962,2016-05-14 03:00:00,24,0.24,0.3280909061431885,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,1,0.31,0.29774633049964905,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,2,0.34,0.3184381127357483,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,3,0.31,0.35697317123413086,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,4,0.56,0.4458446502685547,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,5,0.71,0.5461410880088806,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,6,0.61,0.6706668138504028,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,7,0.65,0.7150987386703491,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,8,0.63,0.6919273734092712,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,9,0.58,0.6556362509727478,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,10,0.82,0.5547590255737305,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,11,0.53,0.5485012531280518,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,12,0.56,0.5954223871231079,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,13,0.86,0.6542038917541504,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,14,1.42,0.8234904408454895,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,15,0.59,0.8372747898101807,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,16,0.58,0.7066808938980103,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,17,1.48,0.6385584473609924,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,18,1.22,0.5034711956977844,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,19,0.52,0.38120606541633606,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,20,0.5,0.33871230483055115,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,21,0.37,0.32843315601348877,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,22,0.32,0.3243873417377472,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,23,0.34,0.31277626752853394,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+2986,2016-05-15 03:00:00,24,0.32,0.31958064436912537,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,1,0.33,0.3085673451423645,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,2,0.31,0.3064151406288147,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,3,0.32,0.31943854689598083,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,4,0.37,0.40122461318969727,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,5,0.53,0.5673291683197021,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,6,0.42,0.6918449997901917,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,7,0.89,0.8221484422683716,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,8,0.62,0.8003891706466675,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,9,1.24,0.9963514804840088,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,10,1.6,0.9151437282562256,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,11,0.53,0.8572473526000977,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,12,0.67,0.6945300698280334,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,13,0.53,0.6753716468811035,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,14,1.46,0.9758353233337402,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,15,0.93,0.923054039478302,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,16,0.69,0.8639848828315735,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,17,0.58,0.7224269509315491,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,18,0.41,0.6195824146270752,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,19,0.28,0.42568281292915344,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,20,0.36,0.335808664560318,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,21,0.3,0.33652475476264954,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,22,0.33,0.3288578391075134,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,23,0.31,0.3153027892112732,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3010,2016-05-16 03:00:00,24,0.32,0.3050864636898041,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,1,0.32,0.3110472559928894,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,2,0.35,0.3365519642829895,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,3,0.34,0.35956087708473206,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,4,0.39,0.47003674507141113,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,5,0.34,0.563395619392395,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,6,0.31,0.5689427852630615,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,7,0.32,0.6259055733680725,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,8,0.31,0.6083140969276428,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,9,0.32,0.5790507793426514,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,10,0.25,0.5322611927986145,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,11,0.32,0.4910573363304138,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,12,0.31,0.6444757580757141,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,13,0.4,0.6441348195075989,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,14,0.92,0.9167169332504272,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,15,0.6,1.070496678352356,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,16,0.74,0.7384611964225769,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,17,0.71,0.6025614738464355,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,18,0.39,0.42660045623779297,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,19,0.28,0.39482465386390686,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,20,0.33,0.32505548000335693,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,21,0.31,0.3215668797492981,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,22,0.32,0.3269566595554352,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,23,0.33,0.31116384267807007,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3034,2016-05-17 03:00:00,24,0.31,0.3230871260166168,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,1,0.31,0.30908897519111633,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,2,0.39,0.3454066514968872,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,3,0.42,0.4229315519332886,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,4,0.32,0.5006823539733887,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,5,0.37,0.5416167378425598,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,6,0.39,0.49933212995529175,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,7,0.35,0.47366490960121155,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,8,0.42,0.5305558443069458,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,9,0.34,0.7146264910697937,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,10,0.52,0.5096349716186523,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,11,0.49,0.49938517808914185,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,12,0.5,0.5214547514915466,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,13,0.63,0.604863166809082,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,14,0.71,0.9131098389625549,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,15,1.07,0.8497092127799988,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,16,0.86,0.6297770738601685,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,17,1.34,0.5217020511627197,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,18,0.49,0.4235643446445465,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,19,0.31,0.355876088142395,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,20,0.34,0.31848371028900146,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,21,0.31,0.30715957283973694,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,22,0.31,0.2985767126083374,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,23,0.3,0.2970134913921356,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3058,2016-05-18 03:00:00,24,0.31,0.2658199965953827,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,1,0.34,0.30604901909828186,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,2,0.33,0.3315355181694031,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,3,0.35,0.3658393919467926,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,4,0.3,0.42892876267433167,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,5,0.32,0.5656259059906006,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,6,0.22,0.6507875323295593,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,7,0.33,0.6093456745147705,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,8,0.31,0.730202853679657,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,9,0.33,0.5737804174423218,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,10,0.3,0.5157703161239624,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,11,0.38,0.5415441393852234,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,12,0.49,0.6228370070457458,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,13,0.54,0.7439653873443604,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,14,1.25,0.9402140378952026,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,15,0.72,1.0211886167526245,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,16,0.59,0.7901917099952698,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,17,0.71,0.7235231995582581,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,18,0.4,0.518519937992096,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,19,0.3,0.3572383522987366,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,20,0.34,0.35939085483551025,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,21,0.31,0.3109065592288971,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,22,0.31,0.3076171576976776,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,23,0.22,0.2992292642593384,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3082,2016-05-19 03:00:00,24,0.35,0.3026049733161926,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,1,0.31,0.3539769947528839,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,2,0.37,0.3683628439903259,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,3,0.4,0.3845188021659851,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,4,0.48,0.5772312879562378,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,5,0.76,0.665169358253479,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,6,0.44,0.7851762175559998,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,7,0.49,0.8397984504699707,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,8,0.44,0.876017689704895,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,9,0.43,0.8559627532958984,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,10,0.37,0.9176387190818787,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,11,0.36,0.8625734448432922,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,12,0.28,0.9861080050468445,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,13,0.29,0.9107725024223328,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,14,0.45,1.4524860382080078,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,15,0.47,1.2863376140594482,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,16,0.39,0.8225926160812378,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,17,0.42,0.6531558036804199,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,18,0.39,0.4521208107471466,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,19,0.32,0.3403330445289612,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,20,0.27,0.34705886244773865,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,21,0.29,0.32173192501068115,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,22,0.31,0.3171501159667969,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,23,0.34,0.2832433879375458,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3106,2016-05-20 03:00:00,24,0.29,0.292412132024765,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,1,0.34,0.3160073757171631,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,2,0.31,0.34180086851119995,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,3,0.36,0.443774938583374,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,4,0.34,0.504764974117279,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,5,1.25,0.6448856592178345,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,6,1.86,0.7848655581474304,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,7,2.3,0.9498497843742371,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,8,2.59,0.9641481041908264,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,9,1.37,0.8404987454414368,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,10,2.06,0.8480122685432434,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,11,1.82,0.9281203746795654,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,12,2.17,1.0295382738113403,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,13,0.6,1.0101982355117798,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,14,0.57,1.117321491241455,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,15,0.75,1.1439661979675293,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,16,0.65,0.7594449520111084,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,17,0.57,0.5882577300071716,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,18,0.81,0.4944746792316437,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,19,0.44,0.3640393912792206,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,20,0.89,0.3229217827320099,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,21,0.36,0.32825565338134766,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,22,0.34,0.3327857553958893,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,23,0.31,0.3588334321975708,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3130,2016-05-21 03:00:00,24,0.32,0.31715288758277893,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,1,0.33,0.2881816625595093,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,2,0.3,0.29828619956970215,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,3,0.35,0.30047598481178284,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,4,0.38,0.37218955159187317,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,5,1.14,0.5228353142738342,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,6,0.68,0.6430804133415222,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,7,1.21,0.7237018346786499,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,8,2.06,0.8188140392303467,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,9,0.76,0.8447250127792358,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,10,0.62,0.7499885559082031,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,11,0.64,0.6866235733032227,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,12,0.58,0.49613285064697266,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,13,0.53,0.6473164558410645,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,14,1.59,0.6236996650695801,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,15,0.72,0.9684374928474426,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,16,0.58,0.8368738889694214,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,17,0.7,0.7434660196304321,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,18,0.53,0.691961944103241,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,19,0.47,0.47424185276031494,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,20,0.36,0.38612398505210876,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,21,0.35,0.33132481575012207,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,22,0.31,0.365994930267334,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,23,0.35,0.3879513442516327,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3154,2016-05-22 03:00:00,24,0.31,0.46616271138191223,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,1,0.3,0.3235943615436554,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,2,0.4,0.33758947253227234,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,3,0.36,0.38012680411338806,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,4,0.34,0.456271767616272,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,5,0.31,0.5812464356422424,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,6,0.33,0.7444894909858704,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,7,0.31,0.7938636541366577,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,8,0.34,0.7690380215644836,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,9,0.37,0.7606102824211121,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,10,0.34,0.6595022678375244,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,11,0.35,0.7177490592002869,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,12,0.44,0.6715866327285767,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,13,0.94,0.6871193051338196,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,14,2.28,0.9120381474494934,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,15,0.74,1.0805636644363403,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,16,0.72,0.832991898059845,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,17,0.63,0.7343604564666748,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,18,0.41,0.5569463968276978,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,19,0.38,0.38366368412971497,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,20,0.35,0.3456587493419647,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,21,0.3,0.3276851177215576,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,22,0.34,0.3185681700706482,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,23,0.33,0.3014616370201111,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3178,2016-05-23 03:00:00,24,0.32,0.30134397745132446,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,1,0.32,0.31528130173683167,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,2,0.64,0.3394542634487152,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,3,0.43,0.3640977442264557,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,4,0.97,0.5390245914459229,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,5,0.34,0.5401433110237122,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,6,0.23,0.5572689175605774,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,7,0.4,0.6292847990989685,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,8,0.61,0.49145084619522095,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,9,0.77,0.5650144815444946,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,10,0.71,0.50897216796875,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,11,0.9,0.5213146805763245,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,12,0.85,0.5126030445098877,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,13,0.85,0.6355169415473938,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,14,1.22,0.9692453145980835,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,15,0.82,1.1150943040847778,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,16,0.74,0.8273886442184448,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,17,0.58,0.6506466865539551,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,18,0.46,0.43715766072273254,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,19,0.37,0.36647531390190125,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,20,0.35,0.334506630897522,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,21,0.32,0.31842127442359924,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,22,0.32,0.32169097661972046,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,23,0.34,0.30736595392227173,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3202,2016-05-24 03:00:00,24,0.29,0.3056299090385437,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,1,0.33,0.3133316934108734,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,2,0.33,0.3292652368545532,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,3,0.33,0.3727332651615143,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,4,0.39,0.45401284098625183,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,5,0.5,0.5382108688354492,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,6,0.54,0.5902014970779419,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,7,0.47,0.5877377390861511,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,8,0.3,0.6657490730285645,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,9,0.36,0.6472412347793579,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,10,0.43,0.6546836495399475,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,11,0.48,0.5154039859771729,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,12,0.48,0.6742627620697021,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,13,1.39,0.5740625262260437,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,14,0.71,0.930142343044281,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,15,0.94,0.9820278286933899,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,16,0.71,0.7680633664131165,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,17,1.14,0.7201902270317078,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,18,0.34,0.4869217574596405,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,19,0.32,0.35794252157211304,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,20,0.32,0.3312489092350006,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,21,0.32,0.30600810050964355,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,22,0.33,0.31531068682670593,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,23,0.3,0.2937660217285156,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3226,2016-05-25 03:00:00,24,0.34,0.293226957321167,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,1,0.3,0.31465885043144226,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,2,0.34,0.46995317935943604,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,3,0.37,0.48671573400497437,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,4,0.6,0.6486265063285828,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,5,0.94,0.7078875303268433,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,6,1.66,0.7179669737815857,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,7,1.59,0.5811059474945068,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,8,1.46,0.5385913848876953,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,9,1.33,0.5050867795944214,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,10,0.45,0.4570273160934448,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,11,0.41,0.48588159680366516,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,12,0.37,0.570497989654541,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,13,2.97,0.6719421744346619,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,14,2.64,0.9551495909690857,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,15,1.29,0.9959184527397156,XGBoost Direct,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,16,1.34,0.7366071343421936,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,17,0.55,0.5903546810150146,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,18,0.46,0.4021359980106354,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,19,0.42,0.3432712256908417,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,20,0.39,0.33040282130241394,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,21,0.36,0.3118674159049988,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,22,0.35,0.3176177740097046,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,23,0.3,0.30552926659584045,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid
+3250,2016-05-26 03:00:00,24,0.35,0.317178338766098,Hybrid feature-based,Gate C Normal predicted -> Feature Hybrid

@@ -1,0 +1,7 @@
+scheme,class,lower,upper,count_train
+A_3_regime,Low,0.17,0.31,810
+A_3_regime,Normal,0.31,0.81,1034
+A_3_regime,High,0.81,3.65,458
+B_spike,Normal,0.17,0.81,1844
+B_spike,High,0.81,1.7,343
+B_spike,Extreme,1.7,3.65,115

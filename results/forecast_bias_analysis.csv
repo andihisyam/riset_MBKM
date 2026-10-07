@@ -1,0 +1,36 @@
+model,regime,bias,n
+Feature-based FTS-XGBoost,overall,0.009855244139830268,480
+Residual FTS-XGBoost,overall,-0.09067381291277357,480
+Weekly Seasonal Naive,overall,-0.026833333333333334,480
+XGBoost Direct,overall,0.006712305066486198,480
+XGBoost-FTS Residual Correction,overall,0.3756459636336279,480
+Feature-based FTS-XGBoost,High,-0.23373232323088142,152
+Feature-based FTS-XGBoost,Low,0.14198984977127846,69
+Feature-based FTS-XGBoost,Medium,0.11760822657912855,259
+Residual FTS-XGBoost,High,-0.34566063637834654,152
+Residual FTS-XGBoost,Low,0.04652076791096905,69
+Residual FTS-XGBoost,Medium,0.022421056160310777,259
+Weekly Seasonal Naive,High,-0.29276315789473684,152
+Weekly Seasonal Naive,Low,0.12376811594202895,69
+Weekly Seasonal Naive,Medium,0.0891119691119691,259
+XGBoost Direct,High,-0.23694160455151606,152
+XGBoost Direct,Low,0.14059690736342162,69
+XGBoost Direct,Medium,0.1140380066241997,259
+XGBoost-FTS Residual Correction,High,0.14175938303662014,152
+XGBoost-FTS Residual Correction,Low,0.5046236360313705,69
+XGBoost-FTS Residual Correction,Medium,0.4785467391367203,259
+Feature-based FTS-XGBoost,Extreme,-1.2475721367667703,17
+Feature-based FTS-XGBoost,High,-0.3923642716073153,57
+Feature-based FTS-XGBoost,Normal,0.11897538668416403,406
+Residual FTS-XGBoost,Extreme,-1.3689144290383677,17
+Residual FTS-XGBoost,High,-0.501392308958233,57
+Residual FTS-XGBoost,Normal,0.020511026369803478,406
+Weekly Seasonal Naive,Extreme,-1.3764705882352941,17
+Weekly Seasonal Naive,High,-0.41070175438596485,57
+Weekly Seasonal Naive,Normal,0.08357142857142857,406
+XGBoost Direct,Extreme,-1.2467074276419245,17
+XGBoost Direct,High,-0.3952779045439603,57
+XGBoost Direct,Normal,0.11563244645525082,406
+XGBoost-FTS Residual Correction,Extreme,-0.8462702624173991,17
+XGBoost-FTS Residual Correction,High,-0.01670969280499757,57
+XGBoost-FTS Residual Correction,Normal,0.4818943583623696,406
