@@ -1,0 +1,4 @@
+comparison,n_origins,mean_error_diff,median_error_diff,wilcoxon_p,bootstrap_ci_low,bootstrap_ci_high,wins_for_second,wins_for_first,ties,note
+LightGBM Direct minus Hybrid FTS1-LightGBM Fixed 0.31,20,0.004282937689052258,-0.005699496165000539,0.6008710115741303,-0.042832534385680646,0.06390787101025673,8,11,1,Only 20 non-overlap origins; multiple comparisons not adjusted.
+RandomForest Direct minus Residual FTS3-RandomForest,20,0.04580261914693269,0.4437284273518154,0.8123550415039062,-0.9184169146373614,0.9647574388974673,12,8,0,Only 20 non-overlap origins; multiple comparisons not adjusted.
+LightGBM Direct minus RandomForest Direct,20,-0.0037715818018228655,0.03782064769018412,0.8408222198486328,-0.40857401121471637,0.37761945946479275,11,9,0,Only 20 non-overlap origins; multiple comparisons not adjusted.

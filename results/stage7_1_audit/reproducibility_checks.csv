@@ -1,0 +1,2 @@
+py_compile_returncode,py_compile_stderr,required_artifacts_present,python,pandas_version,numpy_version,sklearn_version,xgboost_version,lightgbm_version,catboost_version,scipy_version
+0,,True,3.10.0,2.2.3,2.2.6,1.7.2,3.2.0,4.6.0,1.2.10,1.15.3

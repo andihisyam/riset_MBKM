@@ -1,0 +1,15 @@
+file,pattern,found
+src/stage2_pipeline.py,shift(1),True
+src/stage2_pipeline.py,shift(lag),True
+src/stage2_pipeline.py,rolling(window).mean(),True
+src/stage2_pipeline.py,rolling(window).std(),True
+src/stage7_pipeline.py,StandardScaler(),True
+src/stage7_pipeline.py,fit_until,True
+src/stage7_pipeline.py,bounds.train_end,True
+src/stage7_pipeline.py,bounds.val_end,True
+src/stage7_pipeline.py,"choose_threshold(d_val, r_val)",True
+src/stage7_pipeline.py,"direct[""predicted""] <= threshold",False
+src/stage7_pipeline.py,values[: o + 1],True
+src/stage6_pipeline.py,best_xgb_params,True
+src/stage6_pipeline.py,"fit_direct_models(features, HIST_COLS, bounds, params)",True
+src/stage6_pipeline.py,"Residual FTS-XGBoost"" if r[""XGBoost Direct""] <= th[""q33""]",True

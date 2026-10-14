@@ -1,0 +1,107 @@
+model,split,n_origins,n_horizons,n_rows
+CatBoost Direct,test,20,24,480
+CatBoost Direct,validation,20,24,480
+Hybrid FTS1-CatBoost Fixed 0.31,test,20,24,480
+Hybrid FTS1-CatBoost Fixed 0.31,validation,20,24,480
+Hybrid FTS1-CatBoost Validation threshold,test,20,24,480
+Hybrid FTS1-CatBoost Validation threshold,validation,20,24,480
+Hybrid FTS1-LightGBM Fixed 0.31,test,20,24,480
+Hybrid FTS1-LightGBM Fixed 0.31,validation,20,24,480
+Hybrid FTS1-LightGBM Validation threshold,test,20,24,480
+Hybrid FTS1-LightGBM Validation threshold,validation,20,24,480
+Hybrid FTS1-RandomForest Fixed 0.31,test,20,24,480
+Hybrid FTS1-RandomForest Fixed 0.31,validation,20,24,480
+Hybrid FTS1-RandomForest Validation threshold,test,20,24,480
+Hybrid FTS1-RandomForest Validation threshold,validation,20,24,480
+Hybrid FTS1-SVR Fixed 0.31,test,20,24,480
+Hybrid FTS1-SVR Fixed 0.31,validation,20,24,480
+Hybrid FTS1-SVR Validation threshold,test,20,24,480
+Hybrid FTS1-SVR Validation threshold,validation,20,24,480
+Hybrid FTS1-XGBoost Fixed 0.31,test,20,24,480
+Hybrid FTS1-XGBoost Fixed 0.31,validation,20,24,480
+Hybrid FTS1-XGBoost Validation threshold,test,20,24,480
+Hybrid FTS1-XGBoost Validation threshold,validation,20,24,480
+Hybrid FTS2-CatBoost Fixed 0.31,test,20,24,480
+Hybrid FTS2-CatBoost Fixed 0.31,validation,20,24,480
+Hybrid FTS2-CatBoost Validation threshold,test,20,24,480
+Hybrid FTS2-CatBoost Validation threshold,validation,20,24,480
+Hybrid FTS2-LightGBM Fixed 0.31,test,20,24,480
+Hybrid FTS2-LightGBM Fixed 0.31,validation,20,24,480
+Hybrid FTS2-LightGBM Validation threshold,test,20,24,480
+Hybrid FTS2-LightGBM Validation threshold,validation,20,24,480
+Hybrid FTS2-RandomForest Fixed 0.31,test,20,24,480
+Hybrid FTS2-RandomForest Fixed 0.31,validation,20,24,480
+Hybrid FTS2-RandomForest Validation threshold,test,20,24,480
+Hybrid FTS2-RandomForest Validation threshold,validation,20,24,480
+Hybrid FTS2-SVR Fixed 0.31,test,20,24,480
+Hybrid FTS2-SVR Fixed 0.31,validation,20,24,480
+Hybrid FTS2-SVR Validation threshold,test,20,24,480
+Hybrid FTS2-SVR Validation threshold,validation,20,24,480
+Hybrid FTS2-XGBoost Fixed 0.31,test,20,24,480
+Hybrid FTS2-XGBoost Fixed 0.31,validation,20,24,480
+Hybrid FTS2-XGBoost Validation threshold,test,20,24,480
+Hybrid FTS2-XGBoost Validation threshold,validation,20,24,480
+Hybrid FTS3-CatBoost Fixed 0.31,test,20,24,480
+Hybrid FTS3-CatBoost Fixed 0.31,validation,20,24,480
+Hybrid FTS3-CatBoost Validation threshold,test,20,24,480
+Hybrid FTS3-CatBoost Validation threshold,validation,20,24,480
+Hybrid FTS3-LightGBM Fixed 0.31,test,20,24,480
+Hybrid FTS3-LightGBM Fixed 0.31,validation,20,24,480
+Hybrid FTS3-LightGBM Validation threshold,test,20,24,480
+Hybrid FTS3-LightGBM Validation threshold,validation,20,24,480
+Hybrid FTS3-RandomForest Fixed 0.31,test,20,24,480
+Hybrid FTS3-RandomForest Fixed 0.31,validation,20,24,480
+Hybrid FTS3-RandomForest Validation threshold,test,20,24,480
+Hybrid FTS3-RandomForest Validation threshold,validation,20,24,480
+Hybrid FTS3-SVR Fixed 0.31,test,20,24,480
+Hybrid FTS3-SVR Fixed 0.31,validation,20,24,480
+Hybrid FTS3-SVR Validation threshold,test,20,24,480
+Hybrid FTS3-SVR Validation threshold,validation,20,24,480
+Hybrid FTS3-XGBoost Fixed 0.31,test,20,24,480
+Hybrid FTS3-XGBoost Fixed 0.31,validation,20,24,480
+Hybrid FTS3-XGBoost Validation threshold,test,20,24,480
+Hybrid FTS3-XGBoost Validation threshold,validation,20,24,480
+LightGBM Direct,test,20,24,480
+LightGBM Direct,validation,20,24,480
+RandomForest Direct,test,20,24,480
+RandomForest Direct,validation,20,24,480
+Residual FTS1-CatBoost,test,20,24,480
+Residual FTS1-CatBoost,validation,20,24,480
+Residual FTS1-LightGBM,test,20,24,480
+Residual FTS1-LightGBM,validation,20,24,480
+Residual FTS1-RandomForest,test,20,24,480
+Residual FTS1-RandomForest,validation,20,24,480
+Residual FTS1-SVR,test,20,24,480
+Residual FTS1-SVR,validation,20,24,480
+Residual FTS1-XGBoost,test,20,24,480
+Residual FTS1-XGBoost,validation,20,24,480
+Residual FTS2-CatBoost,test,20,24,480
+Residual FTS2-CatBoost,validation,20,24,480
+Residual FTS2-LightGBM,test,20,24,480
+Residual FTS2-LightGBM,validation,20,24,480
+Residual FTS2-RandomForest,test,20,24,480
+Residual FTS2-RandomForest,validation,20,24,480
+Residual FTS2-SVR,test,20,24,480
+Residual FTS2-SVR,validation,20,24,480
+Residual FTS2-XGBoost,test,20,24,480
+Residual FTS2-XGBoost,validation,20,24,480
+Residual FTS3-CatBoost,test,20,24,480
+Residual FTS3-CatBoost,validation,20,24,480
+Residual FTS3-LightGBM,test,20,24,480
+Residual FTS3-LightGBM,validation,20,24,480
+Residual FTS3-RandomForest,test,20,24,480
+Residual FTS3-RandomForest,validation,20,24,480
+Residual FTS3-SVR,test,20,24,480
+Residual FTS3-SVR,validation,20,24,480
+Residual FTS3-XGBoost,test,20,24,480
+Residual FTS3-XGBoost,validation,20,24,480
+SVR Direct,test,20,24,480
+SVR Direct,validation,20,24,480
+Weighted FTS order 1,test,20,24,480
+Weighted FTS order 1,validation,20,24,480
+Weighted FTS order 2,test,20,24,480
+Weighted FTS order 2,validation,20,24,480
+Weighted FTS order 3,test,20,24,480
+Weighted FTS order 3,validation,20,24,480
+XGBoost Direct,test,20,24,480
+XGBoost Direct,validation,20,24,480

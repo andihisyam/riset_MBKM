@@ -1,0 +1,41 @@
+algorithm,condition,rating,evidence
+CatBoost,Feature set,Identical,All Direct models use BASE_FEATURES + ROLLING_FEATURES (22 columns).
+CatBoost,Target and horizon,Identical,All models predict H1-H24 on the same hourly Appliances_kWh target.
+CatBoost,Split and forecast origin,Identical,Chronological 70/15/15; 20 validation origins and 20 test origins.
+CatBoost,Direct tuning candidates,Identical,2 candidates.
+CatBoost,Residual tuning candidates per order,Identical,"{1.0: 2, 2.0: 2, 3.0: 2} candidates."
+CatBoost,Model-specific preprocessing,Identical,No scaler used.
+CatBoost,Random seed,Comparable,Seed fixed where estimator exposes random_state/random_seed; SVR deterministic for fixed data.
+CatBoost,Selection criterion,Identical,Direct/residual candidates selected by validation Daily MAE; threshold selected by validation Daily MAE.
+LightGBM,Feature set,Identical,All Direct models use BASE_FEATURES + ROLLING_FEATURES (22 columns).
+LightGBM,Target and horizon,Identical,All models predict H1-H24 on the same hourly Appliances_kWh target.
+LightGBM,Split and forecast origin,Identical,Chronological 70/15/15; 20 validation origins and 20 test origins.
+LightGBM,Direct tuning candidates,Identical,2 candidates.
+LightGBM,Residual tuning candidates per order,Identical,"{1.0: 2, 2.0: 2, 3.0: 2} candidates."
+LightGBM,Model-specific preprocessing,Identical,No scaler used.
+LightGBM,Random seed,Comparable,Seed fixed where estimator exposes random_state/random_seed; SVR deterministic for fixed data.
+LightGBM,Selection criterion,Identical,Direct/residual candidates selected by validation Daily MAE; threshold selected by validation Daily MAE.
+RandomForest,Feature set,Identical,All Direct models use BASE_FEATURES + ROLLING_FEATURES (22 columns).
+RandomForest,Target and horizon,Identical,All models predict H1-H24 on the same hourly Appliances_kWh target.
+RandomForest,Split and forecast origin,Identical,Chronological 70/15/15; 20 validation origins and 20 test origins.
+RandomForest,Direct tuning candidates,Identical,2 candidates.
+RandomForest,Residual tuning candidates per order,Identical,"{1.0: 2, 2.0: 2, 3.0: 2} candidates."
+RandomForest,Model-specific preprocessing,Identical,No scaler used.
+RandomForest,Random seed,Comparable,Seed fixed where estimator exposes random_state/random_seed; SVR deterministic for fixed data.
+RandomForest,Selection criterion,Identical,Direct/residual candidates selected by validation Daily MAE; threshold selected by validation Daily MAE.
+SVR,Feature set,Identical,All Direct models use BASE_FEATURES + ROLLING_FEATURES (22 columns).
+SVR,Target and horizon,Identical,All models predict H1-H24 on the same hourly Appliances_kWh target.
+SVR,Split and forecast origin,Identical,Chronological 70/15/15; 20 validation origins and 20 test origins.
+SVR,Direct tuning candidates,Identical,2 candidates.
+SVR,Residual tuning candidates per order,Identical,"{1.0: 2, 2.0: 2, 3.0: 2} candidates."
+SVR,Model-specific preprocessing,Different but justified,SVR uses train-fit StandardScaler in sklearn Pipeline; tree/boosting models use raw numeric features.
+SVR,Random seed,Comparable,Seed fixed where estimator exposes random_state/random_seed; SVR deterministic for fixed data.
+SVR,Selection criterion,Identical,Direct/residual candidates selected by validation Daily MAE; threshold selected by validation Daily MAE.
+XGBoost,Feature set,Identical,All Direct models use BASE_FEATURES + ROLLING_FEATURES (22 columns).
+XGBoost,Target and horizon,Identical,All models predict H1-H24 on the same hourly Appliances_kWh target.
+XGBoost,Split and forecast origin,Identical,Chronological 70/15/15; 20 validation origins and 20 test origins.
+XGBoost,Direct tuning candidates,Identical,2 candidates.
+XGBoost,Residual tuning candidates per order,Identical,"{1.0: 2, 2.0: 2, 3.0: 2} candidates."
+XGBoost,Model-specific preprocessing,Identical,No scaler used.
+XGBoost,Random seed,Comparable,Seed fixed where estimator exposes random_state/random_seed; SVR deterministic for fixed data.
+XGBoost,Selection criterion,Identical,Direct/residual candidates selected by validation Daily MAE; threshold selected by validation Daily MAE.
