@@ -4,5 +4,12 @@ matplotlib
 seaborn
 statsmodels
 scikit-learn
+scipy
 xgboost
+lightgbm
+catboost
 shap
+joblib
+nbformat
+pytest
+jupyter
