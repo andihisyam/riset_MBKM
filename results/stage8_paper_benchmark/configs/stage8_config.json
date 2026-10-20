@@ -1,0 +1,12 @@
+{
+  "random_state": 42,
+  "fts_intervals": 15,
+  "track_a_train_rows": 14803,
+  "track_b_train_rows": 11841,
+  "track_b_validation_end": 15788,
+  "selected_track_b": {
+    "variant": "B1_history_time",
+    "fts_order": 2
+  },
+  "paper_reference": "Candanedo et al. 2017 Table 5"
+}

@@ -1,0 +1,5 @@
+component,MAE_Wh
+Weighted FTS,39.18721178079738
+Random Forest same features,27.43932855792169
+Hybrid FTS-RF residual,27.681714702643447
+RF correction improvement vs FTS (%),29.36033607727071

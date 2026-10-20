@@ -134,6 +134,14 @@ pytest tests
 - Hybrid threshold belum terbukti memberi peningkatan stabil/signifikan.
 - SHAP Random Forest residual belum tersedia; SHAP yang tersedia saat ini adalah untuk XGBoost Direct pada Stage 6.
 
+## Stage 8: benchmark 10 menit berbasis paper
+
+Stage 8 tersedia di `results/stage8_paper_benchmark/` dan memakai target `Appliances` pada resolusi asli 10 menit. Track A adalah approximate reproduction terhadap Candanedo et al. (2017), sedangkan Track B adalah evaluasi kronologis rolling one-step yang menjadi benchmark utama. Jalankan dengan `python run_stage8.py`; paket hasil lokal dibuat sebagai `stage8_paper_benchmark.zip`. Hasil Stage 8 tidak menimpa Stage 1-7.1.
+
+## Stage 9: benchmark ARIMA dan SARIMA hourly
+
+Stage 9 menambahkan ARIMA dan SARIMA pada jalur evaluasi hourly Stage 1-7 dengan origin H1-H24 yang sama. Model dipilih dari validation Daily MAE, kemudian hasil test dimasukkan ke katalog `results/stage9_arima_sarima/ALL_HOURLY_MODELS.csv` dan ranking gabungan `HOURLY_MODEL_RANKING.csv`. Jalankan dengan `python run_stage9.py`; paket hasil dibuat sebagai `stage9_arima_sarima_package.zip`. Stage 8 tetap dipisahkan karena memakai resolusi 10 menit dan satuan Wh.
+
 ## Referensi
 
 - UCI Machine Learning Repository: Appliances Energy Prediction Dataset.

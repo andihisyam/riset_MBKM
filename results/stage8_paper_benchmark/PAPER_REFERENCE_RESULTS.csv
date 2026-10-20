@@ -1,0 +1,5 @@
+model,MAE_Wh,RMSE_Wh,R2,MAPE_pct
+Linear Regression,51.97,93.18,0.16,59.93
+SVM Radial,31.36,70.74,0.52,29.76
+Random Forest,31.85,68.48,0.54,31.39
+Gradient Boosting Machine,35.22,66.65,0.57,38.29

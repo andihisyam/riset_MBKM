@@ -1,0 +1,40 @@
+track,feature,source_index_relative_to_target,future_actual_value_used,reason
+B,lights,-1,False,origin value only
+B,T1,-1,False,origin value only
+B,RH_1,-1,False,origin value only
+B,T2,-1,False,origin value only
+B,RH_2,-1,False,origin value only
+B,T3,-1,False,origin value only
+B,RH_3,-1,False,origin value only
+B,T4,-1,False,origin value only
+B,RH_4,-1,False,origin value only
+B,T5,-1,False,origin value only
+B,RH_5,-1,False,origin value only
+B,T6,-1,False,origin value only
+B,RH_6,-1,False,origin value only
+B,T7,-1,False,origin value only
+B,RH_7,-1,False,origin value only
+B,T8,-1,False,origin value only
+B,RH_8,-1,False,origin value only
+B,T9,-1,False,origin value only
+B,RH_9,-1,False,origin value only
+B,T_out,-1,False,origin value only
+B,Press_mm_hg,-1,False,origin value only
+B,RH_out,-1,False,origin value only
+B,Windspeed,-1,False,origin value only
+B,Visibility,-1,False,origin value only
+B,Tdewpoint,-1,False,origin value only
+B,lag_1,-1,False,lag/rolling uses history through origin
+B,lag_2,-1,False,lag/rolling uses history through origin
+B,lag_3,-1,False,lag/rolling uses history through origin
+B,lag_6,-1,False,lag/rolling uses history through origin
+B,lag_12,-1,False,lag/rolling uses history through origin
+B,rolling_mean_3,-1,False,lag/rolling uses history through origin
+B,rolling_mean_6,-1,False,lag/rolling uses history through origin
+B,rolling_std_3,-1,False,lag/rolling uses history through origin
+B,delta_1,-1,False,lag/rolling uses history through origin
+B,NSM,0,False,calendar timestamp known before target observation
+B,hour,0,False,calendar timestamp known before target observation
+B,minute,0,False,calendar timestamp known before target observation
+B,day_of_week,0,False,calendar timestamp known before target observation
+B,is_weekend,0,False,calendar timestamp known before target observation

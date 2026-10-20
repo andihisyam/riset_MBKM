@@ -1,0 +1,17 @@
+method,MAE_Wh,RMSE_Wh,R2,MAPE_pct,comparison,variant,fts_order
+Linear Regression,51.97,93.18,0.16,59.93,paper reported testing,,
+SVM Radial,31.36,70.74,0.52,29.76,paper reported testing,,
+Random Forest,31.85,68.48,0.54,31.39,paper reported testing,,
+Gradient Boosting Machine,35.22,66.65,0.57,38.29,paper reported testing,,
+Random Forest,139.66167409798797,185.45764679108052,-3.421064858475419,193.24469216067408,Stage 8 Track A approximate,A1_common_predictors,1.0
+Hybrid FTS-RF residual,54.97539102359266,87.71944300168987,0.010925222193471695,62.70411203934599,Stage 8 Track A approximate,A1_common_predictors,1.0
+Random Forest,139.66167409798797,185.45764679108052,-3.421064858475419,193.24469216067408,Stage 8 Track A approximate,A1_common_predictors,2.0
+Hybrid FTS-RF residual,52.913284732322545,86.47326802306233,0.03882793324585432,59.33963870314219,Stage 8 Track A approximate,A1_common_predictors,2.0
+Random Forest,139.66167409798797,185.45764679108052,-3.421064858475419,193.24469216067408,Stage 8 Track A approximate,A1_common_predictors,3.0
+Hybrid FTS-RF residual,53.099576991064914,88.65747639190172,-0.010341347671742662,62.30495775298477,Stage 8 Track A approximate,A1_common_predictors,3.0
+Random Forest,50.747769667477705,78.95593172603628,0.1986782660171984,57.16286360280138,Stage 8 Track A approximate,A2_historical_energy_augmented,1.0
+Hybrid FTS-RF residual,55.30429034985173,79.61018549533394,0.18534323526140628,67.35214729689177,Stage 8 Track A approximate,A2_historical_energy_augmented,1.0
+Random Forest,50.747769667477705,78.95593172603628,0.1986782660171984,57.16286360280138,Stage 8 Track A approximate,A2_historical_energy_augmented,2.0
+Hybrid FTS-RF residual,62.071858421490795,88.69102513577876,-0.011106135881122414,76.19842067375203,Stage 8 Track A approximate,A2_historical_energy_augmented,2.0
+Random Forest,50.747769667477705,78.95593172603628,0.1986782660171984,57.16286360280138,Stage 8 Track A approximate,A2_historical_energy_augmented,3.0
+Hybrid FTS-RF residual,57.2862675830479,87.43905767750529,0.017238049279095446,67.85819212819983,Stage 8 Track A approximate,A2_historical_energy_augmented,3.0

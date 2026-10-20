@@ -1,0 +1,5 @@
+family,order,seasonal_order,validation_daily_mae,validation_windows,selected_by_validation
+ARIMA,"(1, 1, 1)",None,2.944827815255853,20,False
+ARIMA,"(2, 1, 1)",None,2.7686552270919966,20,False
+SARIMA,"(1, 1, 1)","(1, 0, 1, 24)",12.510336622255632,20,False
+SARIMA,"(1, 0, 1)","(1, 0, 1, 24)",2.431812173557593,20,True

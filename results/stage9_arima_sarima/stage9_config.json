@@ -1,0 +1,105 @@
+{
+  "random_state": 42,
+  "target": "Appliances_kWh",
+  "forecast_horizon": 24,
+  "validation_origins": [
+    2301,
+    2325,
+    2349,
+    2373,
+    2397,
+    2421,
+    2445,
+    2469,
+    2493,
+    2517,
+    2541,
+    2565,
+    2589,
+    2613,
+    2637,
+    2661,
+    2685,
+    2709,
+    2733,
+    2757
+  ],
+  "test_origins": [
+    2794,
+    2818,
+    2842,
+    2866,
+    2890,
+    2914,
+    2938,
+    2962,
+    2986,
+    3010,
+    3034,
+    3058,
+    3082,
+    3106,
+    3130,
+    3154,
+    3178,
+    3202,
+    3226,
+    3250
+  ],
+  "candidates": [
+    {
+      "family": "ARIMA",
+      "order": [
+        1,
+        1,
+        1
+      ],
+      "seasonal_order": null
+    },
+    {
+      "family": "ARIMA",
+      "order": [
+        2,
+        1,
+        1
+      ],
+      "seasonal_order": null
+    },
+    {
+      "family": "SARIMA",
+      "order": [
+        1,
+        1,
+        1
+      ],
+      "seasonal_order": [
+        1,
+        0,
+        1,
+        24
+      ]
+    },
+    {
+      "family": "SARIMA",
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        1,
+        0,
+        1,
+        24
+      ]
+    }
+  ],
+  "selected_by_validation": {
+    "family": "SARIMA",
+    "order": "(1, 0, 1)",
+    "seasonal_order": "(1, 0, 1, 24)",
+    "validation_daily_mae": 2.431812173557593,
+    "validation_windows": 20,
+    "selected_by_validation": true
+  }
+}

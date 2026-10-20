@@ -1,0 +1,24 @@
+# Audit Dataset Stage 8
+
+Dataset 10-menit asli dipakai tanpa agregasi hourly.
+
+```json
+{
+  "rows": 19735,
+  "columns": 43,
+  "timestamp_min": "2016-01-11T17:00:00",
+  "timestamp_max": "2016-05-27T18:00:00",
+  "duplicate_timestamps": 0,
+  "missing_cells": 38,
+  "target_min_Wh": 10.0,
+  "target_max_Wh": 1080.0,
+  "target_mean_Wh": 97.6949581960983,
+  "target_median_Wh": 60.0,
+  "target_std_Wh": 102.52489053740624,
+  "iqr_outliers": 2138,
+  "expected_target_unit": "Wh per 10-minute interval",
+  "resolution_check": "0 days 00:10:00"
+}
+```
+
+Target `Appliances` diperlakukan sebagai Wh per interval 10 menit. Outlier dicatat dengan aturan IQR dan tidak dihapus.

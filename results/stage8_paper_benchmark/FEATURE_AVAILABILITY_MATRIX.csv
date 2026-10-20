@@ -1,0 +1,41 @@
+feature,group,available_before_prediction,available_at_target,used_in_track_a,used_in_track_b
+lights,environment,origin value only,True,True,True
+T1,environment,origin value only,True,True,True
+RH_1,environment,origin value only,True,True,True
+T2,environment,origin value only,True,True,True
+RH_2,environment,origin value only,True,True,True
+T3,environment,origin value only,True,True,True
+RH_3,environment,origin value only,True,True,True
+T4,environment,origin value only,True,True,True
+RH_4,environment,origin value only,True,True,True
+T5,environment,origin value only,True,True,True
+RH_5,environment,origin value only,True,True,True
+T6,environment,origin value only,True,True,True
+RH_6,environment,origin value only,True,True,True
+T7,environment,origin value only,True,True,True
+RH_7,environment,origin value only,True,True,True
+T8,environment,origin value only,True,True,True
+RH_8,environment,origin value only,True,True,True
+T9,environment,origin value only,True,True,True
+RH_9,environment,origin value only,True,True,True
+T_out,environment,origin value only,True,True,True
+Press_mm_hg,environment,origin value only,True,True,True
+RH_out,environment,origin value only,True,True,True
+Windspeed,environment,origin value only,True,True,True
+Visibility,environment,origin value only,True,True,True
+Tdewpoint,environment,origin value only,True,True,True
+lights,environment,origin value only,True,True,True
+NSM,time,True,True,True,True
+hour,time,True,True,True,True
+minute,time,True,True,True,True
+day_of_week,time,True,True,True,True
+is_weekend,time,True,True,True,True
+lag_1,historical energy,True,False,True,True
+lag_2,historical energy,True,False,True,True
+lag_3,historical energy,True,False,True,True
+lag_6,historical energy,True,False,True,True
+lag_12,historical energy,True,False,True,True
+rolling_mean_3,historical energy,True,False,True,True
+rolling_mean_6,historical energy,True,False,True,True
+rolling_std_3,historical energy,True,False,True,True
+delta_1,historical energy,True,False,True,True
