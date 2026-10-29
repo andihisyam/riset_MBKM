@@ -117,6 +117,12 @@ Untuk membuka panduan penelitian:
 jupyter notebook notebooks/00_complete_research_walkthrough.ipynb
 ```
 
+Untuk menjalankan perbandingan Random Forest dan Weighted FTS dari artifact yang sudah tersedia tanpa training ulang:
+
+```bash
+jupyter notebook notebooks/08_random_forest_fts_comparison.ipynb
+```
+
 Catatan: Stage 7 melatih banyak model per horizon dan bisa memakan waktu lama. Untuk membaca hasil tanpa training ulang, buka notebook utama yang memakai artefak CSV yang sudah tersedia.
 
 ## Testing
