@@ -1,0 +1,4 @@
+field,max_abs_difference
+direct_prediction,2.220446049250313e-16
+residual_prediction,2.220446049250313e-16
+hybrid_prediction,2.220446049250313e-16
